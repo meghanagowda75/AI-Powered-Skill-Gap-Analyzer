@@ -1,7 +1,5 @@
 🌟 **AI Powered Skill Gap Analyzer** 🌟
 
-👩‍💻 Developed by: Muppulakunta Keerthi| ID: 17
-
 📘 **Project Overview**
 
 The AI Powered Skill Gap Analyzer is an intelligent web application designed to automatically analyze and compare resumes and job descriptions using Natural Language Processing (NLP) and Machine Learning techniques.
